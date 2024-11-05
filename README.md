@@ -4,7 +4,7 @@
 🐾 A veterinarian diving into the world of technology. I'll be sharing my journey and learnings<br>
 🌱 Currently focused on learning HTML, CSS, and JavaScript.<br>
 📚 Actively studying and open to projects that broaden my skills and experience.<br>
-💻 Passionate about exploring the intersections of technology, education, and animal health.<br>
+💻 Passionate about exploring the intersections of technology, education and animal health.<br>
 ✉️ Feel free to connect with me here!<br>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges
@@ -26,11 +26,11 @@
 -->
 </div>
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=acbacavalcanti&show_icons=true&theme=radical"/>
-<!-- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbacavalcanti&layout=compact"/> -->
-</div>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbacavalcanti&layout=compact"/>
+</div> -->
 
 <!-- Badges from [https://github.com/Ileriayo/markdown-](https://dev.to/envoy_/150-badges-for-github-pnk) -->
 <div style="display: inline_block"><br>
